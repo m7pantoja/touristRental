@@ -1,4 +1,4 @@
-# TouristRental
+# touristRental
 
 Este proyecto se ha creado con la finalidad de dar crédito y dejar constancia sobre el proceso de investigación llevado a cabo por el autor, 
 Mario Pantoja Castro, para la elaboración de un trabajo de la asignatura de Economía del Doble Grado en Matemáticas y Estadística de la Univesidad de Sevilla.
